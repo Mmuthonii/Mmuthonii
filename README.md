@@ -32,7 +32,7 @@ That's a bias, not a limit. When a problem earns the complexity, I'll spend it.
 
 ### Tools
 
-`Python` (pandas, scikit-learn) · `SQL` · fuzzy matching & entity resolution · clustering · `Git` · a bit of C from the embedded side
+`Python` · `SQL` · EDA· `Git` · a bit of C from the embedded side
 
 ---
 
