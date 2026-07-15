@@ -1,4 +1,4 @@
-# Hi there, I'm Cynthia
+# Hi there👋, I'm Cynthia
 
 I like data that looks like noise. The part that gets overlooked isn't the model, it's getting from a pile of inconsistent, half-labelled, real-world records to something a person can actually use. Models are genuinely interesting too. I just think the work that decides whether any of it lands happens before you get to one.
 
@@ -24,7 +24,7 @@ The data work is coming⚙️. I'm building something of my own from scratch.
 
 ### How I think about it
 
-I reach for the explainable solution before the clever one. A rule-based system someone can audit, extend, and argue with usually beats a model that scores two points better on a benchmark nobody will look at — especially when the data is multilingual, inconsistent, and shifting underneath you.
+I reach for the explainable solution before the clever one. A rule-based system someone can audit, extend, and argue with usually beats a model that scores two points better on a benchmark nobody will look at, especially when the data is multilingual, inconsistent, and shifting underneath you.
 
 That's a bias, not a limit. When a problem earns the complexity, I'll spend it.
 
