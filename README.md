@@ -38,4 +38,4 @@ That's a bias, not a limit. When a problem earns the complexity, I'll spend it.
 
 ### Elsewhere 🔗
 
-[LinkedIn](www.linkedin.com/in/cynthia--kinyua) · [cymuthonik@gmail.com] · Berlin — looking for data analyst / data scientist roles (English-speaking)
+[LinkedIn] (www.linkedin.com/in/cynthia--kinyua) · [cymuthonik@gmail.com] · Berlin — looking for data analyst / data scientist roles (English-speaking)
