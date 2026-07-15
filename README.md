@@ -10,7 +10,7 @@ That's most of what I've done as a working student, where I work with FMCG data:
 
 Finishing a bachelor's in Computer Science at SRH University of Applied Sciences in Berlin, November, 2026. Currently writing my thesis on geospatial machine learning for urban suitability modelling, with Berlin's café market as the case study.
 
-I'm working my way properly through data science and ML — not collecting certificates, but rebuilding things from the ground up until I understand *why* each step is there. Long-term I want to keep doing what I've been doing: pointing DS at unglamorous, messy, real data where the answer isn't in a tutorial.
+I'm working my way properly through data science and ML by rebuilding things from the ground up until I understand *why* each step is there. Long-term I want to keep doing what I've been doin pointing DS at unglamorous, messy, real data where the answer isn't in a tutorial.
 
 ---
 
@@ -18,7 +18,7 @@ I'm working my way properly through data science and ML — not collecting certi
 
 Honestly? Not much yet, and not what you'd expect. The public repos below are embedded systems work, different domain, but the same instinct for making something actually run.
 
-The data work is coming. It's been under NDA up to now; I'm building something of my own that isn't.
+The data work is coming. I'm building something of my own from scratch.
 
 ---
 
