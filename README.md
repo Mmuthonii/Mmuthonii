@@ -1,8 +1,8 @@
 # Hi there👋, I'm Cynthia
 
-I like data that looks like noise. The part that gets overlooked isn't the model, it's getting from a pile of inconsistent, half-labelled, real-world records to something a person can actually use. Models are genuinely interesting too. I just think the work that decides whether any of it lands happens before you get to one.
+I like data that looks like noise. The part that gets overlooked isn't the model, it's getting from a pile of inconsistentdata to something a person can actually use. Models are genuinely interesting too. I just think the work that decides whether any of it lands happens before you get to one.
 
-That's most of what I did as a working student, working with FMCG data: messy outlet and product records, multiple markets, multiple languages, no clean labels waiting for you. The pattern was always the same, figure out what signal is actually in there, build something that extracts it reliably, and make it explainable enough that the people using it trust the output.
+That's most of what I did as a working student, working with FMCG data: messy outlet and product records, multiple markets, multiple languages. The pattern was always the same, figure out what signal is actually in there, build something that extracts it reliably, and make it explainable enough that the people using it trust the output.
 
 ---
 
